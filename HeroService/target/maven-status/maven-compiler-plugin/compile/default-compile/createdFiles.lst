@@ -1,0 +1,9 @@
+pt/heroes/HeroesResponseBean.class
+pt/heroes/DaoBase.class
+pt/heroes/HeroSearchBean.class
+pt/heroes/HeroResponseBean.class
+pt/heroes/HeroList.class
+pt/heroes/HeroUpdateBean.class
+pt/heroes/Hero.class
+pt/heroes/JAXRSConfiguration.class
+pt/heroes/HeroManager.class
